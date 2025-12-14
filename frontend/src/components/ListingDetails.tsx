@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { useNavigate, useParams } from "react-router-dom";
-import { apiService } from "../api/apiService";
+import  apiService  from "../apiService";
 import { Skeleton } from "./ui/skeleton";
 
 // Define the shape of a Listing based on your model
