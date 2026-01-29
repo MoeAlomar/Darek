@@ -1,10 +1,10 @@
-# 📝 UniStay
+# 📝 Darek
 
 Team Formation & Idea Development
 
 1447 (Summer 2025) 
 
-UniStay – Students accommodation 
+Darek – Students accommodation 
 
 NAMES:
 Abdulrahman Al-Fawzan,
@@ -33,7 +33,7 @@ Our team was formed at the start of Stage 1, comprising four members with comple
 ---
 
 
-## 🏠 2) Selected MVP Concept — UniStay KSA (Student Housing & Roommates)
+## 🏠 2) Selected MVP Concept — Darek (Student Housing & Roommates)
 
 ### 2.1 Summary of the Chosen MVP
 - **Problem:** After admission policies changed, students can be accepted to universities outside their home city. Many struggle to find safe, affordable accommodation quickly; listings are fragmented across Twitter, Haraj, Telegram, and street notices.
